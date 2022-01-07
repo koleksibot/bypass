@@ -6,7 +6,7 @@
 
 ## Installation
 
-1. Clone the repository to your machine. `git clone https://github.com/yunemse48/403bypasser.git`
+1. Clone the repository to your machine. `git clone https://github.com/koleksibot/bypass.git`
 2. Install required modules by running the code `pip install -r requirements.txt`
 3. READY!
 
